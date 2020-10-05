@@ -1,0 +1,9 @@
+.cover__background {
+    width: 100%;
+    display: inline-block;
+
+    object-fit: cover;
+    margin: 0 auto;
+
+    position: absolute;
+}
