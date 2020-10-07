@@ -1,6 +1,6 @@
 .header__logo {
-    background-image: url('./../../../images/russia-map.svg');
-    background-size: cover;
+    object-fit: cover;
+
     width: 176px;
     height: 52px;
 }

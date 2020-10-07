@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
 
-    width: calc(100% - 48px * 2);
+    width: 100%;
 
     margin: 0 auto;
     padding: 28px 0 56px;
@@ -11,6 +11,8 @@
 
 @media screen and (max-width: 1279px) {
     .header {
+        width: calc(100% - 48px * 2);
+
         padding: 28px 0 48px;
     }
 }
